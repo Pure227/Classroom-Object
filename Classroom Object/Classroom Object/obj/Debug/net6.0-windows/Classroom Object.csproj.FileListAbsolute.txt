@@ -1,0 +1,17 @@
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\bin\Debug\net6.0-windows\Classroom Object.exe
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\bin\Debug\net6.0-windows\Classroom Object.deps.json
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\bin\Debug\net6.0-windows\Classroom Object.runtimeconfig.json
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\bin\Debug\net6.0-windows\Classroom Object.dll
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\bin\Debug\net6.0-windows\Classroom Object.pdb
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.csproj.AssemblyReference.cache
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom_Object.Form1.resources
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.csproj.GenerateResource.cache
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.AssemblyInfoInputs.cache
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.AssemblyInfo.cs
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.csproj.CoreCompileInputs.cache
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.dll
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\refint\Classroom Object.dll
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.pdb
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\Classroom Object.genruntimeconfig.cache
+C:\Users\Arun\Documents\GitHub\Classroom-Object\Classroom Object\Classroom Object\obj\Debug\net6.0-windows\ref\Classroom Object.dll
